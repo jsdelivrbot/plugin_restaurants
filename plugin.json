@@ -2,5 +2,5 @@
 	"Name": "Restaurants",
 	"Maintainer": "Evan Tann <evan@itsabot.org>",
 	"Description": "Find great restaurants nearby",
-	"Icon": "https://cdn.rawgit.com/itsabot/plugin_restaurants/master/icon.svg"
+	"Icon": "https://cdn.jsdelivr.net/gh/itsabot/plugin_restaurants/icon.svg"
 }
